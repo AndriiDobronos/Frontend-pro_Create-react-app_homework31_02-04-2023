@@ -11,6 +11,13 @@
 # production
 /build
 
+/src/App.js
+/src/App.css
+/src/App.test.js
+/src/reportWebVitals.js
+/src/setupTests.js
+/src/logo.svg
+
 # misc
 .DS_Store
 .env.local
